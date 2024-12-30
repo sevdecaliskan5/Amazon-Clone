@@ -27,8 +27,4 @@ The following technologies were used in this project:
 
 **Personalized Recommendations:** Offers personalized suggestions based on users' interests.
 
-# Live Demo / Preview
-
-To get a better understanding of how the website works, check out the screen recording below. It showcases the responsive design, smooth animations, and interactive features of the page in action. Watch the demo to see the project's features in real-time!
-
 ![Amazon-GoogleChrome2024-10-2912-41-29-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/daf5c633-3cfb-48d4-bb92-cfb46b2d3bcc)
